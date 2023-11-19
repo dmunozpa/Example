@@ -1,1 +1,2 @@
-print("Hello world!!")
+msg <- "Hello wordl!!"
+print(msg)
